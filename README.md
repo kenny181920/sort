@@ -5,3 +5,4 @@
 ## Characteristics of the machine that has been used
 ### Processor: i7 6th 2.80
 ### RAM memory: 12gb
+###
