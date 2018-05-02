@@ -2,7 +2,7 @@
 ## Introduction:
 ### In the following code we will see the different times that each method of bubble sorting, insert sort, quick sort and we will test by entering elements at random, up to 10 ^ 5 elements.
 ###
-|n°|insert|bubble||
+|n°|insert|bubble|quick|
 |---|---|---|------|
 |10|0|0|0|
 |100|0|0|0|
